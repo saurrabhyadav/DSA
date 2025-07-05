@@ -1,7 +1,7 @@
-//KADANE'S ALGORITHM
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
+        //KADANE'S ALGORITHM
         int currentSum = 0;
         int maxSum = INT_MIN;
         
