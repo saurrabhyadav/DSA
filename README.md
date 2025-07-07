@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/saurrabhyadav/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saurrabhyadav/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/saurrabhyadav/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/saurrabhyadav/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0075-sort-colors](https://github.com/saurrabhyadav/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/saurrabhyadav/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/saurrabhyadav/DSA/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/saurrabhyadav/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurrabhyadav/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/saurrabhyadav/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
