@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/saurrabhyadav/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/saurrabhyadav/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/saurrabhyadav/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/saurrabhyadav/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saurrabhyadav/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurrabhyadav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurrabhyadav/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saurrabhyadav/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/saurrabhyadav/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/saurrabhyadav/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/saurrabhyadav/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/saurrabhyadav/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -89,4 +91,5 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/saurrabhyadav/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/saurrabhyadav/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/saurrabhyadav/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
