@@ -2,11 +2,23 @@ class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
         int n = matrix.size();
-        reverse(matrix.begin(), matrix.end());
-        
-        for(int i=0; i<n-1; i++){
-            for(int j=i+1; j<n; j++){
-                swap(matrix[i][j], matrix[j][i]);
+        int topRow = 0;
+        int bottomRow = n-1;
+
+        while(topRow < bottomRow){
+            for(int column=0; column<n; column++){
+                int temp = matrix[topRow][column];
+                matrix[topRow][column] = matrix[bottomRow][column];
+                matrix[bottomRow][column] = temp;
+            }
+            topRow++;
+            bottomRow--;
+        }
+        for(int row = 0; row<n-1; row++){
+            for(int column = row+1; column<n; column++){
+                int temp = matrix[row][column];
+                matrix[row][column] = matrix[column][row];
+                matrix[column][row] = temp;
             }
         }
     }
