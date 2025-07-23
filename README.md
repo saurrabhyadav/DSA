@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurrabhyadav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurrabhyadav/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/saurrabhyadav/DSA/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/saurrabhyadav/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/saurrabhyadav/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saurrabhyadav/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/saurrabhyadav/DSA/tree/master/0268-missing-number) |
@@ -86,6 +87,7 @@
 | [0118-pascals-triangle](https://github.com/saurrabhyadav/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurrabhyadav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurrabhyadav/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/saurrabhyadav/DSA/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
