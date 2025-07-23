@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saurrabhyadav/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/saurrabhyadav/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/saurrabhyadav/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/saurrabhyadav/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/saurrabhyadav/DSA/tree/master/0053-maximum-subarray) |
@@ -49,12 +50,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/saurrabhyadav/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/saurrabhyadav/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/saurrabhyadav/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/saurrabhyadav/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/saurrabhyadav/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/saurrabhyadav/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/saurrabhyadav/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/saurrabhyadav/DSA/tree/master/0189-rotate-array) |
