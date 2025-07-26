@@ -1,10 +1,10 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        vector<vector<int>> v;
+        vector<vector<int>> ans;
     
         if(intervals.size() == 0)
-        {return v;}
+        {return ans;}
         
         sort(intervals.begin(), intervals.end());
         
@@ -18,12 +18,12 @@ public:
             }
             else 
             { //if it is not in range of temp
-                v.push_back(temp); 
+                ans.push_back(temp); 
                 temp = it; 
             }
         }
-        v.push_back(temp); //pushback the last resultant interval
-        return v;
+        ans.push_back(temp); //pushback the last resultant interval
+        return ans;
         
     }
 };
