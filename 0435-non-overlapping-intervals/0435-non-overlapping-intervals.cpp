@@ -12,11 +12,11 @@ public:
             if(ans.empty() || ans.back()[1] <=intervals[i][0]) {
                 ans.push_back(intervals[i]);
             }
-            else if(ans.back()[1] > intervals[i][0]){
+            else
+            {
                 ans.back()[1]= min(ans.back()[1], intervals[i][1] );
                 count++;
             }
-            else continue;
         }
         return count;
     }
