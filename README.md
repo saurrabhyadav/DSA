@@ -25,6 +25,7 @@
 | [0189-rotate-array](https://github.com/saurrabhyadav/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/saurrabhyadav/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saurrabhyadav/DSA/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/saurrabhyadav/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/saurrabhyadav/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/saurrabhyadav/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saurrabhyadav/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -60,6 +61,7 @@
 | [0088-merge-sorted-array](https://github.com/saurrabhyadav/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saurrabhyadav/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/saurrabhyadav/DSA/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/saurrabhyadav/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,10 +93,12 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurrabhyadav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurrabhyadav/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/saurrabhyadav/DSA/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/saurrabhyadav/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurrabhyadav/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/saurrabhyadav/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
