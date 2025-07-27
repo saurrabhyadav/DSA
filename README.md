@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/saurrabhyadav/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/saurrabhyadav/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/saurrabhyadav/DSA/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saurrabhyadav/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/saurrabhyadav/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/saurrabhyadav/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/saurrabhyadav/DSA/tree/master/0053-maximum-subarray) |
@@ -53,6 +54,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saurrabhyadav/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/saurrabhyadav/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/saurrabhyadav/DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/saurrabhyadav/DSA/tree/master/0792-binary-search) |
