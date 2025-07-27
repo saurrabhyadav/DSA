@@ -28,6 +28,7 @@
 | [0435-non-overlapping-intervals](https://github.com/saurrabhyadav/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/saurrabhyadav/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/saurrabhyadav/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/saurrabhyadav/DSA/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saurrabhyadav/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/saurrabhyadav/DSA/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/saurrabhyadav/DSA/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
