@@ -15,9 +15,7 @@ public:
                 end1 = mid1-1;
             }
         }
-        //(ans1 != 0) r
         result.push_back(ans1);
-        //else result.push_back(-1);
 
         int start2 = 0, end2 = nums.size()-1, mid2 = 0, ans2 = -1;
         while(start2 <= end2){
@@ -29,9 +27,8 @@ public:
                 start2 = mid2+1;
             }
         }
-        //if(ans2 != 0) 
         result.push_back(ans2);
-        //else result.push_back(-1);
+        
         return result;
     }
 };
