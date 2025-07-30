@@ -37,6 +37,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/saurrabhyadav/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/saurrabhyadav/DSA/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saurrabhyadav/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3227-find-missing-and-repeated-values](https://github.com/saurrabhyadav/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,12 +51,14 @@
 | [0169-majority-element](https://github.com/saurrabhyadav/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/saurrabhyadav/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/saurrabhyadav/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [3227-find-missing-and-repeated-values](https://github.com/saurrabhyadav/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saurrabhyadav/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/saurrabhyadav/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/saurrabhyadav/DSA/tree/master/0268-missing-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/saurrabhyadav/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,4 +131,5 @@
 | [0054-spiral-matrix](https://github.com/saurrabhyadav/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/saurrabhyadav/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saurrabhyadav/DSA/tree/master/0073-set-matrix-zeroes) |
+| [3227-find-missing-and-repeated-values](https://github.com/saurrabhyadav/DSA/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
