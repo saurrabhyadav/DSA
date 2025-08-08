@@ -15,7 +15,7 @@ public:
             int mid = low + (high - low) / 2;
             long hours = 0;
             for (int p : piles)
-                hours += (p + mid - 1)/mid;
+                hours += (p + mid - 1)/mid;  //to find int version of ceil(p/mid)
 
             if (hours <= h) {
                 ans = mid;
