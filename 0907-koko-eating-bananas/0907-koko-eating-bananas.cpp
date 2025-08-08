@@ -1,14 +1,21 @@
 class Solution {
 public:
+    int maxElement(vector<int>& piles){
+        int maxVal = INT_MIN;
+        for(int i=0; i<piles.size(); i++){
+            maxVal = max(maxVal,piles[i]);
+        }
+        return maxVal;
+    }
     int minEatingSpeed(vector<int>& piles, int h) {
-        int low = 1, high = *max_element(piles.begin(), piles.end());
+        int low = 1, high = maxElement(piles);
         int ans = high;
 
         while (low <= high) {
             int mid = low + (high - low) / 2;
             long hours = 0;
             for (int p : piles)
-                hours += ceil((double) p/ (double) mid);
+                hours += (p + mid - 1)/mid;
 
             if (hours <= h) {
                 ans = mid;
