@@ -8,7 +8,7 @@ public:
             int mid = low + (high - low) / 2;
             long hours = 0;
             for (int p : piles)
-                hours += (p + mid - 1) / mid;
+                hours += ceil((double) p/ (double) mid);
 
             if (hours <= h) {
                 ans = mid;
@@ -17,7 +17,6 @@ public:
                 low = mid + 1;
             }
         }
-
         return ans;
     }
 };
