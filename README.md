@@ -38,6 +38,7 @@
 | [0792-binary-search](https://github.com/saurrabhyadav/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/saurrabhyadav/DSA/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/saurrabhyadav/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/saurrabhyadav/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/saurrabhyadav/DSA/tree/master/1646-kth-missing-positive-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saurrabhyadav/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3227-find-missing-and-repeated-values](https://github.com/saurrabhyadav/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -78,6 +79,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/saurrabhyadav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/saurrabhyadav/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/saurrabhyadav/DSA/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/saurrabhyadav/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/saurrabhyadav/DSA/tree/master/1646-kth-missing-positive-number) |
 ## Sorting
 |  |
